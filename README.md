@@ -32,3 +32,10 @@ MATKUL  : Pemrograman WEB
 - code
 
 ![gambar](ss/codeform.png)
+
+# Data
+![gambar](ss/Data.png)
+
+- code
+
+![gambar](ss/codedata.png)
