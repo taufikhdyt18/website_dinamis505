@@ -5,9 +5,10 @@ NAMA    : TAUFIK HIDAYAT
 KELAS   : TI.23.A6
 MATKUL  : Pemrograman WEB
 ```
+
 ## Halaman Home
 ![gambar](ss/Home.png)
-
+![gambarjujutsu](https://i.pinimg.com/736x/92/fd/ed/92fdedc559929a6c3a1b8f49f1058ccb.jpg)
 - code
 
 ![gambar](ss/codehome.png)
